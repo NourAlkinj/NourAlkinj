@@ -1,4 +1,4 @@
-# Hi, I'm Eng. Nour Al-Kinj 👋
+# Hi, I'm Eng. Nour AlKinj 👋
 I'm a Software Engineer and Instructor Assistant who loves building web applications and teaching programming. Whether it's designing a backend, creating a web app with Laravel, or exploring new tech, I enjoy solving challenging problems.
 
 ## 🚀 Featured Experience
